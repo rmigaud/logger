@@ -1,2 +1,3 @@
 # logger
-logger example
+
+SLF4J logger example
